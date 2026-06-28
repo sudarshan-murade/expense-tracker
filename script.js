@@ -187,4 +187,4 @@ function calculateTotal() {
 
 displayExpenses();
 
-calculateTotal();
+calculateTotal(); 
