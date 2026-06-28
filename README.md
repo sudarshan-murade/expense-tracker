@@ -59,7 +59,8 @@ While building this project, I learned:
 
 ## 📸 Screenshot
 
-(Add your screenshot here for better presentation)
+<img width="306" height="355" alt="{BB22E838-3628-4D51-988D-66DB8487636D}" src="https://github.com/user-attachments/assets/62d2e10a-8be4-4dde-821f-9dc29ff6b377" />
+
 
 ---
 
