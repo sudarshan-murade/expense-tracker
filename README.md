@@ -1,4 +1,6 @@
 # 💰 Expense Tracker Web App
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/425ee2d4-652f-4668-b9e6-bf7dd74d05ac" />
+
 
 A simple and interactive Expense Tracker built using **HTML, CSS, and JavaScript**.  
 This project helps users manage daily expenses, categorize them, and track total spending in real-time with data persistence using localStorage.
